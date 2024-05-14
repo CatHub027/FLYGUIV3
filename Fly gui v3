@@ -1,7 +1,7 @@
 game:GetService("StarterGui"):SetCore("SendNotification".{
                 Title = "Credits";
 
-                Text = "Modified By Cataihub#0000 https://discord.gg/mjG7XRYe";
+                Text = "Modified By memecat0#0000 https://discord.gg/mjG7XRYe";
 
                 Duration = 3.5;
 
